@@ -2,4 +2,4 @@
 
 FDM secificatiosn repo
 
-## Contains documents describing what teh FDM's are and how they are built. 
+## Contains documents describing what the FDM's are and how they are built. 
