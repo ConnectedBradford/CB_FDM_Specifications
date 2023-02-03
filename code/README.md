@@ -1,6 +1,6 @@
-# FDM Code
+# FDM Unit Testing Code
 
-Contains all code used to create and maintain the FDM_<dataset> repo
+Contains all code used for testing the FDM's
 
 Contents:
 
