@@ -1,4 +1,4 @@
-# CY_FDM_Specifications
+# CB_FDM_Specifications
 
 FDM secificatiosn repo
 
