@@ -1,6 +1,10 @@
 # CB_FDM_Specifications
 
-FDM secificatiosn repo
+FDM secifications repo
+
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026)
+> 
 
 ## Contains documents describing what the FDM's are and how they are built. 
 
